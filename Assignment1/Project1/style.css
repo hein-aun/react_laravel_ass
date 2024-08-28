@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bolder;
+    color: lightblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
